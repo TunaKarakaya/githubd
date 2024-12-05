@@ -9,6 +9,7 @@
     
     <?php 
     echo "hello world";
+    echo "kurdiarea"
     ?>
     
 </body>
